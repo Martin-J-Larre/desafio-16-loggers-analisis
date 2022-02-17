@@ -1,0 +1,1 @@
+// Errores lanzados por las apis de mensajes y productos, únicamente (error)
