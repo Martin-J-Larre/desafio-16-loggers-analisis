@@ -1,12 +1,9 @@
-  ## Modulo Cluster nativo
-- ### Modo Cluster por parametro
-  - **desafio-15-e> node>** `node index.js CLUSTER`
-- ### Modo Fork por parametro
-  - **desafio-15-e> node>** `node index.js`
-- ### Modo Cluster con nodemon por parametro 
-  - **desafio-15-e> node>**`nodemon index.js CLUSTER`
-- ### Modo Fork con nodemon por parametro
-  - **desafio-15-e> node>** `node index.js `
+## LOGGERS Y GZIP
+-  la diferencia de cantidad de bytes devueltos en un caso y otro en ruta: *http://localhost:8081/info*
+
+![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+
+
 
 ## Forever
  - ### Modo Fork 

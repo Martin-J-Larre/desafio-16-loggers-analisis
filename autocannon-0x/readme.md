@@ -1,0 +1,1 @@
+### Lamentablemente no eh podido ejecutar 0x en mi computadora, algunas cosas de manera global tengo que ejecutarlas con npx, ya me ha pasado antes con PM2 y otras librerias, lamentablemente en este caso no pude, intente muchas veces pero no me salio la carpetas con los archivos y el html, solo pude hacer los print de pantallas
