@@ -1,7 +1,10 @@
 ## LOGGERS Y GZIP
 -  la diferencia de cantidad de bytes devueltos en un caso y otro en ruta: *http://localhost:8081/info*
+### Con cosole.log()
+![alt text](https://github.com/Martin-J-Larre/desafio-16-loggers-analisis/blob/main/assets/info-con-comp.JPG?raw=true)
 
-![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+### Sin cosole.log()
+![alt text](https://github.com/Martin-J-Larre/desafio-16-loggers-analisis/blob/main/assets/info-sin-comp.JPG?raw=true)
 
 
 
