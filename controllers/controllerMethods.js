@@ -3,7 +3,8 @@ const parseArgs = require('minimist');
 const args = parseArgs(process.argv.slice(2));
 const path = parseArgs(process.argv)._[1];
 let os = require('os');
-let { fork } = require ("child_process");
+/////todo: Desactivar el child_process
+// let { fork } = require ("child_process");
 
 
 class controllerMethods {
@@ -41,6 +42,7 @@ class controllerMethods {
         }
 
     }
+    /////todo: Desactivar el child_process
     async getNumRandom(req, res){
         loggerInfo.info(`randoms: Path "${req.route.path}" Method "${req.route.stack[0].method}"`);
         try {

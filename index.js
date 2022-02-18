@@ -35,9 +35,6 @@ app.set("view engine", "ejs");
 app.set("views", "./public"); 
 app.use(express.static("./public")); 
 
-//// app.use("/", root);
-/////
- app.use("/info", infoRouter);
 serverRoutes(app);
 
 app.listen(PORT, () => {
